@@ -196,7 +196,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ATHIK05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHIK05&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATHIK05&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=0ea5e9&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=c9d1d9" />
@@ -207,7 +206,7 @@
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ATHIK05&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ATHIK05&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)
 
 </div>
 
