@@ -357,8 +357,6 @@ class MohamedAthik extends FlutterDeveloper {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ATHIK05/ATHIK05/output/github-snake.svg" />
 </picture>
 
-> ℹ️ *To enable the snake animation, add a GitHub Action that generates it to your repository.*
-
 </div>
 
 ---
