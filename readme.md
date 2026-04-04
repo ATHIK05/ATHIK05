@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Ultra Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:8b5cf6,100:111827&height=220&section=header&text=Mohamed%20Athik%20R&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Cloud%20%7C%20Full‑Stack%20Builder&descAlignY=58&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:8b5cf6,100:111827&height=220&section=header&text=Mohamed%20Athik%20R&fontSize=64&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Typing headline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Mobile%20%26%20Cloud%20Developer;Flutter%20%7C%20Firebase%20%7C%20AWS%20%7C%20Docker;Shipping%20apps%20that%20feel%20native;Building%20products%20from%20idea%20to%20Play%20Store)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Mobile%20%26%20Cloud%20Developer;Flutter%20%E2%80%A2%20Firebase%20%E2%80%A2%20DevOps%20%E2%80%A2%20AWS;I%20build%20products%20that%20ship%20%E2%80%94%20not%20just%20demos)](https://git.io/typing-svg)
 
 <!-- Quick links -->
 <p>
@@ -15,11 +15,11 @@
   <a href="https://play.google.com/store/search?q=BookTheBiz&c=apps"><img alt="Play Store" src="https://img.shields.io/badge/Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </p>
 
-<!-- Counters -->
+<!-- Fresh identity strip (replaces generic counters) -->
 <p>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ATHIK05&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/ATHIK05?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=111827" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/ATHIK05?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=22c55e&labelColor=111827" />
+  <img alt="Shipping" src="https://img.shields.io/badge/Build%20%E2%86%92%20Ship%20%E2%86%92%20Iterate-111827?style=for-the-badge&labelColor=8b5cf6" />
+  <img alt="Focus" src="https://img.shields.io/badge/UX--first%20%7C%20Performance--minded-111827?style=for-the-badge&labelColor=0ea5e9" />
+  <img alt="Current" src="https://img.shields.io/badge/Currently%3A%20Flutter%20%2B%20Cloud%20systems-111827?style=for-the-badge&labelColor=22c55e" />
 </p>
 
 <!-- Divider -->
@@ -224,7 +224,7 @@
 ## 💼 Work Experience
 
 ```text
-📍 Flutter Developer @ Crescent Moon Consulting Services        [July 2025 – Present]
+📍 Flutter Developer @ Crescent Moon Consulting Services        [July 2025 – Oct 30, 2025]
    ├── Built Doctor Appointment Booking System (Flutter + React + Firebase)
    ├── Developed LAMP Fellows App — a Microsoft Teams-like collaboration platform
    ├── Implemented RESTful APIs for cross-platform secure communication
@@ -354,5 +354,3 @@
 **"Building scalable mobile apps while engineering cost-effective alternatives to premium tools."**
 
 ⭐ If you like what I build, consider starring my repos — it means a lot!
-
-</div>
