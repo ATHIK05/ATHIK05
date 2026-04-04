@@ -121,7 +121,7 @@
 </div>
 <!-- ─── Card 2 : Punchbiz ─── -->
 
-> ### 🥊 Application Developer — **Punchbiz**
+> ### 🥊 Business Partner + Cross-Mobile Application Developer — **Punchbiz**
 > `June 2024 – Present` &nbsp;•&nbsp; 📍 Salem, Tamil Nadu
 
 | What I Built | Tech Used |
