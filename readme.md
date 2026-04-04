@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,70:7c3aed,100:0ea5e9&height=280&section=header&text=Mohamed%20Athik%20R&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20App%20Developer%20✦%20Flutter%20Craftsman%20✦%20Cloud%20Architect%20✦&descAlignY=62&descSize=16&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,70:7c3aed,100:0ea5e9&height=280&section=header&text=Mohamed%20Athik%20R&fontSize=62&fontColor=ffffff&animation=fa[...]">
 
 <!-- Sparkle / glitter strip -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=60&text=✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦&fontSize=22&fontColor=a78bfa&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=60&text=✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦[...]">
 
 </div>
 
@@ -17,10 +17,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=☕+Fuelled+by+coffee%2C+driven+by+code;🚀+Building+end-to-end+mobile+products;⚡+Flutter+•+Firebase+•+AWS+•+DevOps;🏆+7×+Hackathon+Winner+%7C+CGPA+9.18;✨+Shipping+scalable+apps+—+not+just+demos)](https://git.io/typing-svg)
-
-<br/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=☕+Fuelled+by+coffee%2C+driven[...]\n<br/>\n
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedathik786/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://mohamedathikr.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ATHIK05)
@@ -116,45 +113,39 @@
 
 ## ✦ Work Experience
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=✦%20%20Where%20I%20have%20shipped%20real%20products%20%20✦&fontSize=14&fontColor=a78bfa" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=✦%20%20Where%20I%20have%20shipped%20real%20products%20%20✦&fontSize=14&fontColor=a78bfa" width="[...]">
 
 </div>
 
 <!-- ─── Card 1 : Crescent Moon ─── -->
 
-> ### 🌙 Flutter Developer — **Crescent Moon Consulting Services**
-> `July 2025 – Present` &nbsp;•&nbsp; 📍 Erode, Tamil Nadu
+> ### 🌙 Flutter Developer Intern — **Crescent Moon Consulting Services**
+> `July 2025 – Oct 2025` &nbsp;•&nbsp; 📍 Erode, Tamil Nadu
 
 | What I Built | Tech Used |
 |---|---|
-| 🏥 **Doctor Appointment Booking System** — mobile (Flutter) + web portal (React + Firebase) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| 👥 **LAMP Fellows App** — Microsoft Teams-like collab platform (docs, events, chat) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| 🔌 **RESTful API layer** — secure cross-platform communication | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| ⚡ **Agile delivery** — sprint-based, UX-first incremental releases | ![Scrum](https://img.shields.io/badge/Scrum-0ea5e9?style=flat-square) ![UX](https://img.shields.io/badge/UX--First-a78bfa?style=flat-square) |
-
-<br/>
-
-<!-- ─── Card 2 : Punchbiz ─── -->
-
-> ### 🥊 Application Developer — **Punchbiz**
-> `June 2024 – Present` &nbsp;•&nbsp; 📍 Salem, Tamil Nadu
-
+| 🏥 **Doctor Appointment Booking System** — mobile (Flutter) + web portal (React + Firebase) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor[...]
+| 👥 **LAMP Fellows App** — Microsoft Teams-like collab platform (docs, events, chat) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) [...]
+| 🔌 **RESTful API layer** — secure cross-platform communication | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https[...]
+| ⚡ **Agile delivery** — sprint-based, UX-first incremental releases | ![Scrum](https://img.shields.io/badge/Scrum-0ea5e9?style=flat-square) ![UX](https://img.shields.io/badge/UX--First-a78bf[...] 
+|---|---|
+| 🥊 Developer Cum Partner (Business Partner) — **Punchbiz**
+|`June 2024 – Present` &nbsp;•&nbsp; 📍 Salem, Tamil Nadu|
 | What I Built | Tech Used |
 |---|---|
-| 📱 **BookTheBiz** — end-to-end turf booking app, live on Play Store | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| ⚡ **Real-time Firestore** availability checks + OTP auth | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Auth](https://img.shields.io/badge/Auth-34A853?style=flat-square) |
-| ☁️ **Firebase Cloud Functions** — backend automation & scalability | ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
-| 🚀 **Play Store** — published, maintained & iterated on user feedback | ![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=flat-square&logo=googleplay&logoColor=white) |
+| 📱 **BookTheBiz** — end-to-end turf booking app, live on Play Store **and App Store** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](http[...]
+| ⚡ **Real-time Firestore** availability checks + OTP auth | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Auth](https://img.shields.io/badge/Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black| ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=[...]
+| 🚀 **Play Store & App Store** — published, maintained & iterated on user feedback | ![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=flat-square&logo=googleplay&logoColor=white) |
 
-<br/>
+<br/> 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="center"> 
 
-## ✦ Tech Arsenal
+## ✦ Tech Arsenal 
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=✦%20%20Icons%20I%20live%20in%20every%20day%20%20✦&fontSize=14&fontColor=a78bfa" width="80%"/>
 
@@ -185,11 +176,10 @@
 
 ## ✦ Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=✦%20%20Products%20that%20are%20live%2C%20used%2C%20and%20growing%20%20✦&fontSize=14&fontColor=a78bfa" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=30&text=✦%20%20Products%20that%20are%20live%2C%20used%2C%20and%20growing%20%20✦&fontSize=14&fontColor=a7[...]">
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ```
@@ -210,7 +200,6 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/ATHIK05)
 
 </td>
-
 <td width="50%" valign="top">
 
 ```
@@ -231,10 +220,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/ATHIK05)
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 ```
@@ -255,7 +242,6 @@
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/ATHIK05)
 
 </td>
-
 <td width="50%" valign="top">
 
 ```
@@ -279,7 +265,6 @@
 
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 ```
@@ -299,7 +284,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/ATHIK05)
 
 </td>
-
 <td width="50%" valign="top">
 
 ```
@@ -324,7 +308,7 @@
 </table>
 </div>
 
-<br/>
+<br/> 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB DASHBOARD                         -->
@@ -338,12 +322,12 @@
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ATHIK05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=0ea5e9&text_color=c9d1d9&ring_color=7c3aed"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHIK05&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ATHIK05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&[...]">
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHIK05&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&[...]">
 
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATHIK05&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&stroke=0ea5e9"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ATHIK05&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels[...]">
 
 <br/>
 
@@ -353,7 +337,7 @@
 
 ### 📈 Contribution Heatmap
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ATHIK05&bg_color=0d1117&color=a78bfa&line=7c3aed&point=0ea5e9&area_color=0f0c29&area=true&hide_border=true&custom_title=Mohamed%20Athik's%20Contribution%20Graph)](https://github.com/ATHIK05)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ATHIK05&bg_color=0d1117&color=a78bfa&line=7c3aed&point=0ea5e9&area_color=0f0c29&area=true&hide_border=true&custom[...]">
 
 </div>
 
@@ -529,7 +513,7 @@ $ cat education.log
 <br/>
 
 <!-- Glitter sparkle strip before footer -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=40&text=✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦&fontSize=20&fontColor=7c3aed&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=40&text=✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦%20✧%20✦[...]"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:7c3aed,100:0ea5e9&height=130&section=footer&animation=fadeIn" width="100%"/>
 
